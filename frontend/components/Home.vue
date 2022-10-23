@@ -4,7 +4,7 @@
 
 <script>
 
-import home from '~/components/Timelne.vue'
+import timeline from '~/components/Timeline.vue'
 
 export default {
     components: {
