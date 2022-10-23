@@ -1,8 +1,5 @@
 <template>
-  <!-- <v-layout justify-center align-center>
-    <v-btn color="success" :to="{name: 'todos'}">What TODO next?</v-btn>
-  </v-layout> -->
-  <h1> isso aqui é a timeline</h1>
+  <h1>Agora a timeline fica aqui</h1>
 </template>
 
 <script>
